@@ -1,3 +1,4 @@
+const URL = "https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/";
 var removeNthFromEnd = function(head, n) {
     var slow = head;
     var fast = head;
