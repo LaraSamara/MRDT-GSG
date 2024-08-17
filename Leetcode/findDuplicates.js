@@ -1,4 +1,4 @@
-const URL = "https://leetcode.com/problems/two-sum/description/"; 
+const URL = "https://leetcode.com/problems/find-all-duplicates-in-an-array/description/";
 function findDuplicates(nums) {
     let hash ={};
     let res = [];
